@@ -13,7 +13,7 @@ The talk follows a controlled lab scenario from a compromised public web server 
 - [Slides (PDF)](../slides/October2026/intermediate-hacking/slides.pdf)
 - [Editable slides (PowerPoint)](../slides/October2026/intermediate-hacking/slides.pptx)
 - [Read the companion script](../slides/October2026/intermediate-hacking/script.html)
-- [Script (Markdown)](../slides/October2026/intermediate-hacking/script.md)
+- <a href="../slides/October2026/intermediate-hacking/script.md" download>Script (Markdown)</a>
 - [Demo video (MP4)](../slides/October2026/intermediate-hacking/demo.mp4)
 - [Video captions (WebVTT)](../slides/October2026/intermediate-hacking/demo.vtt)
 

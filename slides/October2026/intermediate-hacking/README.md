@@ -8,7 +8,7 @@ A lab story about how a compromised public web server can expose internal data a
 
 - [Slides as PDF](slides.pdf): 32 audience slides, without presenter notes.
 - [Editable PowerPoint](slides.pptx): the same slides, without presenter notes.
-- [Companion script](script.html) ([Markdown](script.md)): a short, plain-language explanation for every slide, with the management and defensive implications.
+- [Companion script](script.html) (<a href="script.md" download>Markdown</a>): a short, plain-language explanation for every slide, with the management and defensive implications.
 - [Demo video](demo.mp4): the original 15.6-second recording, in 1080p H.264 MP4. It has no audio.
 - [Video captions](demo.vtt): an optional explanation of the demonstrated outcome.
 
